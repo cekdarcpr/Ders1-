@@ -24,6 +24,10 @@ namespace Ders1_
             /*
              
 
+
+
+
+
             int toplam = 0;
             int adet = 0;
             Console.WriteLine("Sayını Gir : ");
