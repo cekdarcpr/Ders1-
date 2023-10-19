@@ -24,12 +24,6 @@ namespace Ders1_
             /*
              
 
-
-
-
-
-
-
             int toplam = 0;
             int adet = 0;
             Console.WriteLine("Sayını Gir : ");
@@ -59,12 +53,7 @@ namespace Ders1_
             double toplam = 0;
             int bnot = 0 ,knot = 0;
 
-            //Console.WriteLine("1.Sayı : ");
-            //int sayi1 = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("2.Sayı : ");
-            //int sayi2 = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("3.Sayı : ");
-            //int sayi3 = Convert.ToInt32(Console.ReadLine());
+        
 
             for (int sayac = 0,not; sayac < 10; sayac++)//Satırda yeni değişken tanımlana biliyor...
             {

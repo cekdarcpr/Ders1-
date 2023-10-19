@@ -7,8 +7,10 @@ namespace Ders1_
         static void Main(string[] args)
         {
 
-            ForLoop.Main(args);
+            //ForLoop.Main(args);
+            DoWhile.Main(args);
 
+            Console.ReadKey();
             
 
 
