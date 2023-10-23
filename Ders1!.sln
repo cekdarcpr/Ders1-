@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders1!", "Ders1!\Ders1!.csproj", "{4F739E59-AA2B-4C34-92F8-8C38D93BFF2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders2", "Ders2\Ders2.csproj", "{10E77FC4-D6C1-464A-9738-248B497CC8D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders2", "Ders2\Ders2.csproj", "{10E77FC4-D6C1-464A-9738-248B497CC8D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{6A332D30-EC74-4523-84B3-05AA44617390}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{10E77FC4-D6C1-464A-9738-248B497CC8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10E77FC4-D6C1-464A-9738-248B497CC8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10E77FC4-D6C1-464A-9738-248B497CC8D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A332D30-EC74-4523-84B3-05AA44617390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A332D30-EC74-4523-84B3-05AA44617390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A332D30-EC74-4523-84B3-05AA44617390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A332D30-EC74-4523-84B3-05AA44617390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

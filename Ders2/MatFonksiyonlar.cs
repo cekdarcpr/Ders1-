@@ -79,6 +79,7 @@ namespace Ders2
             int yas = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("{0} kendini beyinsel olarak {1} yaşında hissediyor",String.Concat(userıd," ",lastname),yas);
+            
 
 
             // ekrandan userıd/sifre alınacak. gerekli sitring fonksiyonlar kulanırak doğrulu kontrol mesajı verilecek... (compare fonksiyonu?)
