@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Dizi.Main(args);    
+           // Dizi.Main(args);    
+           Metotlar.Main(args);
 
             Console.ReadKey();  
 

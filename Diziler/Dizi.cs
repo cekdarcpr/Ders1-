@@ -165,7 +165,7 @@ namespace Diziler
             Console.WriteLine("Nötr adet {0}", NötrAdet);
 
             */
-
+            
             int sifirsayi = 0, pozsayi = 0, negsayi = 0;
             int[] sayilar = { 1, 7, -8, -100, 1001, -10, 20, 0, 0, 0, 0, 0, 0, 5 };
 
